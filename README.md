@@ -5,4 +5,4 @@ My dotfiles.
 
 # Installation
 
-> ./install.sh
+> ./bin/install.sh
