@@ -1,6 +1,6 @@
 # dotfiles
 
-Yet another dotfiles written by @saki4d.
+Yet another dotfiles written by [@saki4d](https://github.com/saki4d/).
 
 
 ## Installation
@@ -28,3 +28,7 @@ export GITHUB_ACCOUNT_MAIL=*****
 export GITHUB_ACCOUNT_PASS=*****
 
 ```
+
+## License
+
+Distributed under the [Unlicense](http://unlicense.org/).
