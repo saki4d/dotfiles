@@ -20,10 +20,10 @@ This is intend to be used for some credentials like secret tokens etc.
 `.credentials` should be something like this:
 
 ```
-################################################################################
-# CREDENTIALS ##################################################################
+####
+# CREDENTIALS
 
-################################################################################
+##
 # GitHub
 export GITHUB_ACCOUNT_NAME=*****
 export GITHUB_ACCOUNT_MAIL=*****
